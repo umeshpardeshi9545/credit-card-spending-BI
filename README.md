@@ -1,5 +1,5 @@
 # Credit Card Spending Dashboard
-
+<img width="1281" height="720" alt="Image" src="https://github.com/user-attachments/assets/003c8c27-65df-492b-985e-20b44ca4467d" />
 ## Project Overview
 This project presents a comprehensive **Credit Card Spending Dashboard** designed to analyze customer spending habits, interest generation, and transaction patterns. The dashboard provides a high-level view of financial performance across different card categories (Silver, Gold, Platinum, Blue) and expense types, enabling stakeholders to make data-driven decisions regarding credit card product offerings.
 
